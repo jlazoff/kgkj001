@@ -1,2 +1,7 @@
-# kgkj001
-Created with CodeSandbox
+<!--  -->## Usage
+
+```
+git clone <this-repo>
+npm install
+npm run dev
+```
